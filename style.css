@@ -1,0 +1,87 @@
+.navbar-brand {
+    background-color: lightseagreen;
+    color: white}
+
+.navbar-header {
+    background-color: white}
+
+.navbar {
+    background-color: white;
+    margin-bottom: 0px;
+    padding-left: 60px} 
+
+.jumbotron {
+    border-radius: 0px}
+    
+.jumbotron p {
+    font-size: 19px}
+
+.h3 {
+    color:lightseagreen}
+
+.thumbnail {
+    max-width:35%;
+    max-height:35%;
+    border: 0px;  
+    float:left;
+    margin-right: 15px}
+
+.thumbnail>img {
+    height: inherit;
+    width: inherit;}
+
+.landingtext {font-size: 14px}
+
+.container-fluid {
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px} 
+
+.col-md-8 {
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 10px solid #eee}
+
+.col-md-4 {
+    background-color: white;
+    padding-left: 15px;
+    border: 10px solid #eee}
+
+.col-md-6 {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 50%;}
+
+.col-lg-4 {
+    max-width: 50%;}
+
+.col-sm-3 {
+    padding-left: 0px;
+    padding-right: 0px;
+    float:left;
+    max-width: 25%;}
+           
+.viz-image-l {
+    max-width: 100%; 
+    box-align: left;
+    margin-right: 0px}
+
+.viz-image-r {
+    max-width:100%; 
+    box-align: right;
+    margin-right: 0px}
+
+.selected {
+    border: solid lightseagreen;
+    border-width: 2px}
+
+.col-md-12 {
+    background-color: white}
+
+.col-lg-12 {
+    background-color: white}
+
+.col-sm-12 {
+    background-color: white}
+
